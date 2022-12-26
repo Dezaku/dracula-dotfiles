@@ -1,0 +1,9 @@
+[Added Associations]
+image/png=org.gnome.gThumb.desktop;feh.desktop;
+text/plain=nvim.desktop;
+application/x-ms-dos-executable=wine.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+
+[Default Applications]
+text/plain=code.desktop
+x-scheme-handler/postman=Postman.desktop
